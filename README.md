@@ -133,11 +133,11 @@ HR-Analytics-Presence-Insights/
 
 # 📷 Dashboard Preview
 
-> Add screenshots of your dashboard inside the **Images** folder and update the paths below.
+[> Add screenshots of your dashboard inside the **Images** folder and update the paths below.](https://github.com/Kaustubh-Sahu/Apex-Presence-Insights/blob/main/SnapShot_of_Dashboard.png)
 
 ## Dashboard
 
-![Dashboard]([Images/Dashboard.png](https://github.com/Kaustubh-Sahu/Apex-Presence-Insights/blob/main/SnapShot_of_Dashboard.png))
+![Dashboard]([Images/Dashboard.png]())
 
 ---
 
