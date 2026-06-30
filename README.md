@@ -135,7 +135,7 @@ HR-Analytics-Presence-Insights/
 
 ### Dashboard Overview
 
-![Dashboard Overview](Images/Dashboard.png)
+![Dashboard Overview](https://github.com/Kaustubh-Sahu/Apex-Presence-Insights/blob/main/Dashboard.png)
 
 ---
 
