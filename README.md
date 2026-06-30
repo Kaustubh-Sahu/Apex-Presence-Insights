@@ -141,13 +141,13 @@ HR-Analytics-Presence-Insights/
 
 ### Attendance Trend
 
-![Attendance Trend](Images/Attendance_Trend.png)
+![Attendance Trend](https://github.com/Kaustubh-Sahu/Apex-Presence-Insights/blob/main/Attendence_Trend.png)
 
 ---
 
 ### Employee Insights
 
-![Employee Insights](Images/Employee_Insights.png)
+![Employee Insights](https://github.com/Kaustubh-Sahu/Apex-Presence-Insights/blob/main/Employee_Insights.png)
 
 ---
 
